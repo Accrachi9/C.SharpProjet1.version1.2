@@ -1,0 +1,15 @@
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\bin\Debug\net6.0\Projet_1.exe
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\bin\Debug\net6.0\Projet_1.deps.json
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\bin\Debug\net6.0\Projet_1.runtimeconfig.json
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\bin\Debug\net6.0\Projet_1.dll
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\bin\Debug\net6.0\Projet_1.pdb
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.csproj.AssemblyReference.cache
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.AssemblyInfoInputs.cache
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.AssemblyInfo.cs
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.csproj.CoreCompileInputs.cache
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.dll
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\refint\Projet_1.dll
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.pdb
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\Projet_1.genruntimeconfig.cache
+C:\Users\El Hadji Accrachi\Desktop\Programme Rebon Numérique-Développement\Patrick Roberger\BackEnd\C-ApplicationNative\C-IntroductionProgrammation\Ateliers\Projet_1\obj\Debug\net6.0\ref\Projet_1.dll
